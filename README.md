@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Dark Pattern Buster – AI/ML Module</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange" />
+
   <img src="https://img.shields.io/badge/Python-3.10-blue" />
   <img src="https://img.shields.io/badge/NLP-Text_Classification-green" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
@@ -48,8 +48,7 @@ Welcome to my **self-built AI/ML backend** for the **Dark Pattern Buster** proje
 }
 📤 Response
 json
-Copy
-Edit
+
 {
   "label": "Urgency Pattern"
 }
